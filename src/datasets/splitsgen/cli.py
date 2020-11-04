@@ -25,5 +25,5 @@ if __name__ == '__main__':
     if args["generate_splits"]:
         generate_splits(x, y, **args)
 
-    if args["write_datasets"]:
+    if args["write_dataset"]:
         create_dataset(**args)
