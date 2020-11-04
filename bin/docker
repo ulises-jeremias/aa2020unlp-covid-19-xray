@@ -1,0 +1,81 @@
+#!/usr/bin/env sh
+
+## Copyright (C) 2020 Ulises Jeremias Cornejo Fandos
+## Licensed under MIT
+##
+##     @script.name [OPTION] ARGUMENTS...
+##
+## Options:
+##     -h, --help                            Help.
+##     -b, --build                           Build docker image
+##
+##         --tag=TAG_NAME                    
+##         --log-file=LOG_FILE_PATH          Logs file path, is /tmp/install_progress_log_$(date +'%m-%d-%y_%H:%M:%S').txt by default.
+##
+
+ROOT=$(dirname $0)
+
+source "${ROOT}/../scripts/opts/opts.sh" || exit
+source "${ROOT}/../scripts/logs.sh" || exit
+
+#==========================================
+# Default argument values and preprocessing
+#==========================================
+time_str=$(date +'%m-%d-%y_%H:%M:%S')
+log_file=${log_file:-"/tmp/install_progress_log_${time_str}.txt"}
+
+USER_FLAG="-u $(id -u):$(id -g)"
+APP_NAME="aap2020"
+
+[ ! -f "${log_file}" ] && touch ${log_file}
+
+tag=${tag:-"latest"}
+
+# creates docker image if it doesn't exists
+docker_ini() {
+    if ! type -p docker > /dev/null; then
+        log_failed "Docker is not installed in this system" ${log_file}
+        exit -1
+    fi
+
+    if type -p md5 > /dev/null; then
+        lockSum=$(md5 -r requirements.txt | awk '{ print $1 }')
+    else
+        lockSum=$(md5sum -t requirements.txt | awk '{ print $1 }')
+    fi
+
+    IMAGE_NAME="${APP_NAME}-${lockSum}:${tag}"
+    IMAGE_NAME_ARRAY=(${IMAGE_NAME//:/ })
+
+    if [[ -n "${build}" ]] || [[ "$(docker images ${IMAGE_NAME_ARRAY[0]} | grep ${IMAGE_NAME_ARRAY[1]} 2> /dev/null)" = "" ]]; then
+        docker build -f docker/tf-py3-jupyter.Dockerfile -t "${IMAGE_NAME}" \
+            --build-arg USERNAME=${USER} \
+            --build-arg DOCKER_ENV=${tag} \
+            .
+    fi
+}
+
+# docker run
+docker_run() {
+    runtime=""
+    if [[ $tag == *"gpu"* ]]; then
+        runtime="--gpus all"
+    fi
+
+    docker run --rm -it -e DISPLAY=:${XPORT} \
+        -v "$(pwd)":"/home/${USER}/${APP_NAME}" \
+        -w "/home/${USER}" \
+        -p 6006:6006 -p 8888:8888 \
+        ${runtime} \
+        ${USER_FLAG} \
+        "${IMAGE_NAME}"
+    exit
+}
+
+# test process
+docker_ini
+docker_run
+
+# Help shown by default
+[[ -z "$documentation" ]] && parse_documentation
+echo "$documentation"
