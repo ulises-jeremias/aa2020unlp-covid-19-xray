@@ -1,0 +1,12 @@
+seaborn
+eli5
+shap
+pydot
+pdpbox
+sklearn
+opencv-python
+IPython
+prettytable
+py7zr
+gdown==3.10.0
+tensorflow_datasets
