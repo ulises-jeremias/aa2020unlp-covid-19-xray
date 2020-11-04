@@ -2,17 +2,13 @@ import os
 import shutil
 from src.datasets.splitsgen.loader import load_from_split
 
-def create_dataset(**args):
-    dataset_name = args["dataset"]
-    version = args["version"]
-    data_dir = args["data_dir"] if args["data_dir"] else os.path.sep.join(["./data", dataset_name, "data"])
-    split_name = args["split"]
-    splits_dir = args["splits_dir"]
+def create_dataset(dataset, version, data_dir, split, splits_dir, **kargs):
+    data_dir = data_dir if data_dir else os.path.sep.join(["./data", dataset, "data"])
 
     # Load splits and save those into a new dataset called {dataset}
-    train_split = os.path.sep.join([splits_dir, split_name, "train.txt"])
-    test_split = os.path.sep.join([splits_dir, split_name, "test.txt"])
-    val_split = os.path.sep.join([splits_dir, split_name, "val.txt"])
+    train_split = os.path.sep.join([splits_dir, split, "train.txt"])
+    test_split = os.path.sep.join([splits_dir, split, "test.txt"])
+    val_split = os.path.sep.join([splits_dir, split, "val.txt"])
     splits = [
         (load_from_split(version, data_dir, train_split), 'train'),
         (load_from_split(version, data_dir, test_split), 'test'),
@@ -21,8 +17,8 @@ def create_dataset(**args):
 
     labels = ['normal', 'covid', 'pneumonia']
 
-    for (x_split, y_split), split in splits:
-        split_dir = os.path.sep.join([data_dir, split_name, split])
+    for (x_split, y_split), split_name in splits:
+        split_dir = os.path.sep.join([data_dir, split, split_name])
         if not os.path.exists(split_dir):
             os.makedirs(split_dir)
 

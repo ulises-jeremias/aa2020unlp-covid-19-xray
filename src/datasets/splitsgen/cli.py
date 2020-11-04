@@ -22,5 +22,8 @@ if __name__ == '__main__':
     x.extend(x2)
     y.extend(y2)
 
-    generate_splits(x, y, **args)
-    create_dataset(**args)
+    if args["generate_splits"]:
+        generate_splits(x, y, **args)
+
+    if args["write_datasets"]:
+        create_dataset(**args)
