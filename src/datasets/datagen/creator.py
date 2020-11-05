@@ -71,7 +71,7 @@ def create_dataset(dataset, version, data_dir, split, splits_dir, **kwargs):
         i += 1
 
     # save test labels for kaggle
-    with open(os.path.sep.join([data_dir, 'derived.csv']), mode='w') as f:
+    with open(os.path.sep.join([data_dir, split 'derived.csv']), mode='w') as f:
         writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
         writer.writerow(['Id', 'Expected'])
