@@ -50,7 +50,7 @@ def create_dataset(dataset, version, data_dir, split, splits_dir, **kwargs):
             
             i = labels_counter[label]
             ext = img.split(".")[-1]
-            dest = os.path.sep.join([split_dir, label, f"{i}.jpg"])
+            dest = os.path.sep.join([split_dir, label, "{0:04d}.jpg".format(i)])
             copy_img_to_ds(img, dest)
             labels_counter[label] += 1
 
@@ -64,14 +64,14 @@ def create_dataset(dataset, version, data_dir, split, splits_dir, **kwargs):
 
     for img, label in zip(x_split, y_split):
         ext = img.split(".")[-1]
-        dest = os.path.sep.join([split_dir, 'unknown', f"{i}.jpg"])
+        dest = os.path.sep.join([split_dir, 'unknown', "{0:04d}.jpg".format(i)])
         copy_img_to_ds(img, dest)
-        filenames.append(f"{i}.jpg")
+        filenames.append("{0:04d}.jpg".format(i))
         y_test.append(label)
         i += 1
 
     # save test labels for kaggle
-    with open(os.path.sep.join([data_dir, split 'derived.csv']), mode='w') as f:
+    with open(os.path.sep.join([data_dir, split, 'derived.csv']), mode='w') as f:
         writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
         writer.writerow(['Id', 'Expected'])
