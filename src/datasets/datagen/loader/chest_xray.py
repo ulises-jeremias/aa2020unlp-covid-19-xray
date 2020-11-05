@@ -52,5 +52,5 @@ def load_chest_xray_splits(chest_xray_data_dir, **kwargs):
         y.append(row["Expected"])
 
     output_dir = os.path.join(kwargs["splits_dir"], kwargs["split"])
-    store_split(x, y, os.path.join(output_dir, "test.txt"), kwargs["data_dir"], "a+")
+    store_split(x, y, os.path.join(output_dir, "unknown", "test.txt"), kwargs["data_dir"], "a+")
 
