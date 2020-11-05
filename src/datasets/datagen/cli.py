@@ -2,10 +2,9 @@
 
 from tf_tools.datasets.splitsgen import generate_splits
 
-from src.datasets.splitsgen.args import parse_args
-from src.datasets.splitsgen.creator import create_dataset
-from src.datasets.splitsgen.covid_chest_xray import load_covid_chest_xray
-from src.datasets.splitsgen.covid19_radiography_database import load_covid19_radiography_database
+from src.datasets.datagen.args import parse_args
+from src.datasets.datagen.creator import create_dataset
+from src.datasets.datagen.loader import load_chest_xray_splits, load_covid_chest_xray, load_covid19_radiography_database
 
 if __name__ == '__main__':
     args = parse_args()
@@ -24,6 +23,7 @@ if __name__ == '__main__':
 
     if args["generate_splits"]:
         generate_splits(x, y, **args)
+        load_chest_xray_splits("./data/chest_xray/data", **args)
 
     if args["write_dataset"]:
         create_dataset(**args)
