@@ -2,6 +2,7 @@
 
 import os
 import pandas as pd
+from src.datasets.datagen import covid_idx
 
 def row_filename(dataset_path, row):
     # build the path to the input image file
@@ -45,6 +46,6 @@ def load_covid_chest_xray(data_dir):
                 continue
 
             x.append(filename)
-            y.append(1)
+            y.append(covid_idx)
 
     return x, y

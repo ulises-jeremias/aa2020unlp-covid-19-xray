@@ -3,8 +3,7 @@
 import os
 import glob
 import pandas as pd
-
-labels = ['normal', 'covid', 'pneumonia']
+from src.datasets.datagen import labels, normal_idx, pneumonia_idx
 
 def store_split(x, y, path, data_dir, mode='w'):
     f = open(path, mode)
@@ -28,13 +27,13 @@ def load_chest_xray_splits(chest_xray_data_dir, **kwargs):
 
     # store train paths
     train_dir = os.path.sep.join([dataset_path, "train"])
-    store_label_to_split(0, train_dir, "train", chest_xray_data_dir, **kwargs)
-    store_label_to_split(2, train_dir, "train", chest_xray_data_dir, **kwargs)
+    store_label_to_split(normal_idx, train_dir, "train", chest_xray_data_dir, **kwargs)
+    store_label_to_split(pneumonia_idx, train_dir, "train", chest_xray_data_dir, **kwargs)
 
     # store val paths
     val_dir = os.path.sep.join([dataset_path, "val"])
-    store_label_to_split(0, val_dir, "val", chest_xray_data_dir, **kwargs)
-    store_label_to_split(2, val_dir, "val", chest_xray_data_dir, **kwargs)
+    store_label_to_split(normal_idx, val_dir, "val", chest_xray_data_dir, **kwargs)
+    store_label_to_split(pneumonia_idx, val_dir, "val", chest_xray_data_dir, **kwargs)
 
     # store test paths
     test_dir = os.path.sep.join([dataset_path, "test"])

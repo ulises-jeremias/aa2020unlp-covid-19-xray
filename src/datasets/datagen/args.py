@@ -11,7 +11,6 @@ def parse_args():
     parser.add_argument("--data_dir", type=str, default="",
                         help="Directory to load and store data")
     
-    
     # split config
     parser.add_argument("--split", type=str)
     parser.add_argument("--splits_dir", type=str,

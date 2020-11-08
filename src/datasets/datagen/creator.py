@@ -2,6 +2,7 @@ import os
 import csv
 import shutil
 from PIL import Image
+from src.datasets.datagen import labels, weights
 from src.datasets.datagen.loader import load_from_split
 
 def copy_img_to_ds(src, dst, size = (600, 600)):
@@ -34,8 +35,6 @@ def create_dataset(dataset, version, data_dir, split, splits_dir, **kwargs):
         (load_from_split(version, data_dir, val_split), 'val')
     ]
     test = (load_from_split(version, data_dir, test_split), 'test')
-
-    labels = ['normal', 'covid', 'pneumonia']
 
     # generate labeled train and val sets
     for (x_split, y_split), split_name in train_val:
@@ -73,7 +72,7 @@ def create_dataset(dataset, version, data_dir, split, splits_dir, **kwargs):
     # save test labels for kaggle
     with open(os.path.sep.join([data_dir, split, 'derived.csv']), mode='w') as f:
         writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-
-        writer.writerow(['Id', 'Expected'])
+        writer.writerow(['Id', 'Expected', 'Weight'])
         for f, y in zip(filenames, y_test):
-            writer.writerow([f, str(y)])
+            weight = weights[y]
+            writer.writerow([f, str(y), str(weight)])
