@@ -16,7 +16,7 @@ Kaggle Challenge to Classify Covid Pneumonia Xray
 To start the docker container execute the following command
 
 ```sh
-$ ./bin/start [-n <string>] [-t <tag-name>] [--sudo] [--build] [-d] [-c <command>]
+$ ./bin/docker [-n <string>] [-t <tag-name>] [--sudo] [--build] [-d] [-c <command>]
 ```
 
 ### Tags
@@ -37,9 +37,9 @@ version	Specify the version of the TensorFlow binary image, for example: 2.1.0
 You can use multiple variants at once. For example, the following downloads TensorFlow release images to your machine. For example:
 
 ```sh
-$ ./bin/start -n myContainer --build  # latest stable release
-$ ./bin/start -n myContainer --build -t devel-gpu # nightly dev release w/ GPU support
-$ ./bin/start -n myContainer --build -t latest-gpu-jupyter # latest release w/ GPU support and Jupyter
+$ ./bin/docker -n myContainer --build  # latest stable release
+$ ./bin/docker -n myContainer --build -t devel-gpu # nightly dev release w/ GPU support
+$ ./bin/docker -n myContainer --build -t latest-gpu-jupyter # latest release w/ GPU support and Jupyter
 ```
 
 Once the docker container is running it will execute the contents of the /bin/execute file.
