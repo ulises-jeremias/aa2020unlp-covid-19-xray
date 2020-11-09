@@ -4,6 +4,7 @@ import os
 import pandas as pd
 from src.datasets import covid_idx
 
+
 def row_filename(dataset_path, row):
     # build the path to the input image file
     imagePath = os.path.sep.join([dataset_path, "images", row["filename"]])
@@ -15,6 +16,7 @@ def row_filename(dataset_path, row):
 
     # extract the filename from the image path
     return imagePath
+
 
 def load_covid_chest_xray(data_dir):
     """
