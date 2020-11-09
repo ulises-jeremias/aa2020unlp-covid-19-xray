@@ -62,5 +62,7 @@ $ python src/datasets/datagen/cli.py \
     --split v1 \
     --train_size 0.75 \
     --test_size 0.25 \
-    --seed 40
+    --seed 40 \
+    --gs \
+    -w \
 ```
