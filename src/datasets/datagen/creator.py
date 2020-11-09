@@ -94,7 +94,6 @@ def create_dataset(dataset, version, data_dir, split, splits_dir, **kwargs):
     filenames, y_test = [], []
 
     for img, label in zip(x_split, y_split):
-        ext = img.split(".")[-1]
         dest = os.path.sep.join(
             [split_dir, 'unknown', "{0:04d}.jpg".format(i)])
         copy_img_to_ds(img, dest)

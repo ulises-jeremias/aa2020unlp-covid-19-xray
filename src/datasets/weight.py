@@ -1,7 +1,8 @@
 """Functions to compute weights for a given dataset"""
 
-import numpy as np
+from collections import Counter
 
 def compute_split_weights(X_paths, y):
     """Compute weights for a given dataset"""
-    return [1 - np.sum(y == label) / len(y) for label in set(y)]
+    c = Counter(y)
+    return [1 - c[label] / len(y) for label in set(y)]
