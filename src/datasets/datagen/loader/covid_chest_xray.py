@@ -2,7 +2,7 @@
 
 import os
 import pandas as pd
-from src.datasets.datagen import covid_idx
+from src.datasets import covid_idx
 
 def row_filename(dataset_path, row):
     # build the path to the input image file

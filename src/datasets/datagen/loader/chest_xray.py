@@ -3,7 +3,7 @@
 import os
 import glob
 import pandas as pd
-from src.datasets.datagen import labels, normal_idx, pneumonia_idx
+from src.datasets import labels, normal_idx, pneumonia_idx
 
 def store_split(x, y, path, data_dir, mode='w'):
     f = open(path, mode)

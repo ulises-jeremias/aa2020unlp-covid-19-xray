@@ -2,7 +2,7 @@
 
 import os
 import glob
-from src.datasets.datagen import covid_idx, normal_idx, pneumonia_idx
+from src.datasets import covid_idx, normal_idx, pneumonia_idx
 
 def create_data(dir_path):
     img_list = glob.glob(os.path.sep.join([dir_path, '/*']))

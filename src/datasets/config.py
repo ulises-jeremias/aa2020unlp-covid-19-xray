@@ -17,4 +17,3 @@ label_to_idx = {
 }
 
 labels = ['normal', 'covid', 'pneumonia']
-weights = [1, 1, 1]
