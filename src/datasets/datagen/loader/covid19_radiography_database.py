@@ -29,12 +29,14 @@ def load_covid19_radiography_database(data_dir):
     # store normal paths
     normal_dir = os.path.sep.join([covid_dataset_path, "NORMAL"])
     data, size = create_data(normal_dir)
+    print(f"Loaded {size} images for NORMAL from COVID-19 Radiography Database dataset")
     x.extend(data)
     y.extend([normal_idx for _ in range(size)])
 
     # store covid paths
-    covid_dir = os.path.sep.join([covid_dataset_path, "COVID19"])
+    covid_dir = os.path.sep.join([covid_dataset_path, "COVID-19"])
     data, size = create_data(covid_dir)
+    print(f"Loaded {size} images for COVID-19 from COVID-19 Radiography Database dataset")
     x.extend(data)
     y.extend([covid_idx for _ in range(size)])
 
@@ -42,6 +44,7 @@ def load_covid19_radiography_database(data_dir):
     viral_pneumonia_dir = os.path.sep.join(
         [covid_dataset_path, "Viral Pneumonia"])
     data, size = create_data(viral_pneumonia_dir)
+    print(f"Loaded {size} images for Viral Pneumonia from COVID-19 Radiography Database dataset")
     x.extend(data)
     y.extend([pneumonia_idx for _ in range(size)])
 

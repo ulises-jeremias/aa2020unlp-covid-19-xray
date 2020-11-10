@@ -60,9 +60,9 @@ $ python src/datasets/datagen/cli.py \
     --dataset aa2020 \
     --splits_dir ./data/aa2020/splits \
     --split v1 \
-    --train_size 0.75 \
-    --test_size 0.25 \
+    --train_size 0.80 \
+    --test_size 0.20 \
     --seed 40 \
     --gs \
-    -w \
+    -w
 ```

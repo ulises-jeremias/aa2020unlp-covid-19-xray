@@ -17,3 +17,4 @@ label_to_idx = {
 }
 
 labels = ['normal', 'covid', 'pneumonia']
+labels_idxs = [normal_idx, covid_idx, pneumonia_idx]
