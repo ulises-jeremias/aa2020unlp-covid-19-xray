@@ -71,7 +71,6 @@ def create_dataset(dataset, version, data_dir, split, splits_dir, **kwargs):
     # splits to iterate
     train_val_test = [train_split, val_split, test_split]
     train_val = [train_split, val_split]
-    test = [test_split]
 
     # generate labeled train and val sets
     generate_split(split, data_dir, sets=train_val)
