@@ -56,6 +56,7 @@ to access the running container's shell.
 You will need the other datasets to use localted at `data/<dataset_name>/data` in order to generate the new dataset. Then, you can just run the following command in order to generate the new dataset.
 
 ```sh
+$ pip install -e .
 $ python src/datasets/datagen/cli.py \
     --dataset aa2020 \
     --splits_dir ./data/aa2020/splits \

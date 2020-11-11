@@ -82,7 +82,7 @@ def create_dataset(dataset, version, data_dir, split, splits_dir, **kwargs):
     paths = generate_split(split, data_dir, sets=[(sets, 'dataset')])
     (X, y) = paths['dataset']
 
-    weights = compute_split_weights(X, y)
+    # weights = compute_split_weights(X, y)
 
     # generate test with unknown label
     (x_split, y_split), split_name = test_split
@@ -104,7 +104,9 @@ def create_dataset(dataset, version, data_dir, split, splits_dir, **kwargs):
     with open(os.path.sep.join([data_dir, split, 'derived.csv']), mode='w') as f:
         writer = csv.writer(f, delimiter=',', quotechar='"',
                             quoting=csv.QUOTE_MINIMAL)
-        writer.writerow(['Id', 'Expected', 'Weight'])
+        # writer.writerow(['Id', 'Expected', 'Weight'])
+        writer.writerow(['Id', 'Expected'])
         for f, y in zip(filenames, y_test):
-            weight = weights[y]
-            writer.writerow([f, str(y), str(weight)])
+            # weight = weights[y]
+            # writer.writerow([f, str(y), str(weight)])
+            writer.writerow([f, str(y)])
