@@ -64,7 +64,8 @@ docker_run() {
 
     docker run --rm -it -e DISPLAY=:${XPORT} \
         -v "$(pwd)":"/home/${USER}/${APP_NAME}" \
-        -v "$(pwd)":"/tf" \
+        -v "$(pwd)/data":"/tf/data" \
+        -v "$(pwd)/src/notebooks":"/tf/notebooks" \
         -w "/home/${USER}" \
         -p 6006:6006 -p 8888:8888 \
         ${runtime} \
