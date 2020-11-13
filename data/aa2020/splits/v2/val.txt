@@ -1,0 +1,622 @@
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1050).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (716).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (865).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (374).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (788).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (215).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (78).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (67).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1283).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (673).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (473).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1196).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (803).png 1
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/01E392EE-69F9-4E33-BFCE-E5C968654078.jpeg 1
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/16672_1_1.jpg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1016).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (391).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (269).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (250).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1247).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (738).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (901).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (853).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (83).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (548).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (797).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (577).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (694).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (513).png 0
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-002-fig3b.png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (835).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (40).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (976).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (460).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (352).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (760).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (84).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (648).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1004).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (540).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (937).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (199).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (648).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (261).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (907).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (321).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (482).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (387).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1210).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (884).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (790).png 0
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/lancet-case2a.jpg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (838).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (650).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1037).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (368).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (70).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (967).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (330).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (82).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1223).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1104).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1045).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1115).png 0
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/16708_1_1.jpg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (324).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (149).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (242).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (698).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1105).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (679).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (969).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (664).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (110).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1273).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (699).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (101).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (761).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (870).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (439).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (461).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (848).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (336).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (510).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1250).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (822).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (842).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (315).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1112).png 1
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/kjr-21-e24-g003-l-a.jpg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (939).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (916).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (343).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (127).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (859).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1123).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (408).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (244).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1000).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (758).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (690).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (355).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (626).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1157).png 0
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/covid-19-caso-70-1-PA.jpg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (347).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (303).png 0
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/2C26F453-AF3B-4517-BB9E-802CF2179543.jpeg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (689).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19(196).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1251).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (33).png 0
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/covid-19-pneumonia-44-day-0.jpeg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (774).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (122).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (859).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1192).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1079).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (83).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1107).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (675).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (18).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (537).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (96).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19(162).png 1
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/16660_3_1.jpg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (613).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (89).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (492).png 0
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/1-s2.0-S1684118220300608-main.pdf-002.jpg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1106).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (461).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1069).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1211).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1312).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (624).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1199).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (60).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (842).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1028).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19(157).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (507).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (902).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (200).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1057).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1303).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (361).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (227).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (441).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (92).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (81).png 0
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/16708_4_1.jpg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1125).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (803).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (479).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (317).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (657).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (116).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (713).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (38).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (340).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (940).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (504).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1237).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (922).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1188).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (164).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1131).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1092).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (499).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (95).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (874).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1176).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (819).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (421).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (785).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (962).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (777).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1014).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (189).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (231).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1041).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (789).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19(193).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (679).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (56).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1013).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1275).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (52).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (804).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (992).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1056).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (781).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (965).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (810).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (118).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (120).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (94).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1172).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (412).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (79).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (967).png 0
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/1-s2.0-S1684118220300682-main.pdf-003-b2.png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (373).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1182).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (946).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (382).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (569).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (330).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1167).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (979).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1022).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (951).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1295).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (478).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1248).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (503).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (62).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (21).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (777).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1135).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1000).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (524).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (283).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (73).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1220).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (596).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (19).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (724).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1176).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (415).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (334).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (940).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1308).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (123).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (364).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (396).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1195).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (656).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (628).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (132).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19(170).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1109).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1138).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (735).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (370).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (113).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (285).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19(144).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1267).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (121).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (126).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (275).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (553).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (518).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (173).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (520).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (223).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1317).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (740).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (70).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (931).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (682).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (567).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (467).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (325).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1083).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (829).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1106).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (519).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1136).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (153).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (524).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1015).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19(134).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (500).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (565).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1306).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1032).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (783).png 1
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/covid-19-pneumonia-58-day-7.jpg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (812).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (616).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (210).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (702).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (633).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1104).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (773).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (66).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (661).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (776).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (784).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1312).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1033).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (655).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1091).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1070).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (527).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (428).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (21).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1242).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1293).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (51).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (362).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19(169).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (844).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (527).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1256).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (219).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1042).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1261).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (48).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (902).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1019).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1071).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (624).png 0
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/covid-19-pneumonia-7-PA.jpg 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1129).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1332).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (98).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1257).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (349).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (336).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1326).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (118).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (841).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (7).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1322).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1218).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (851).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (779).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (789).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (45).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1147).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (595).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (5).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (945).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (316).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1243).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (772).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (374).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1259).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (447).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1239).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19(212).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1109).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (643).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (745).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (612).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (207).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (247).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (723).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (324).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (1154).png 1
+../../../../home/ulisesjcf/aap2020/data/covid-chest-xray/data/images/ciaa199.pdf-001-a.png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1103).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (403).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/COVID-19/COVID-19 (125).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (1255).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (358).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (158).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (312).png 1
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (331).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/NORMAL/NORMAL (719).png 0
+../../../../home/ulisesjcf/aap2020/data/covid19-radiography-database/data/Viral Pneumonia/Viral Pneumonia (360).png 1
+data/chest_xray/data/val/normal/0278_normal.jpg 0
+data/chest_xray/data/val/normal/0374_normal.jpg 0
+data/chest_xray/data/val/normal/0292_normal.jpg 0
+data/chest_xray/data/val/normal/0367_normal.jpg 0
+data/chest_xray/data/val/normal/0337_normal.jpg 0
+data/chest_xray/data/val/normal/0347_normal.jpg 0
+data/chest_xray/data/val/normal/0366_normal.jpg 0
+data/chest_xray/data/val/normal/0317_normal.jpg 0
+data/chest_xray/data/val/normal/0345_normal.jpg 0
+data/chest_xray/data/val/normal/0312_normal.jpg 0
+data/chest_xray/data/val/normal/0297_normal.jpg 0
+data/chest_xray/data/val/normal/0305_normal.jpg 0
+data/chest_xray/data/val/normal/0356_normal.jpg 0
+data/chest_xray/data/val/normal/0257_normal.jpg 0
+data/chest_xray/data/val/normal/0340_normal.jpg 0
+data/chest_xray/data/val/normal/0321_normal.jpg 0
+data/chest_xray/data/val/normal/0299_normal.jpg 0
+data/chest_xray/data/val/normal/0336_normal.jpg 0
+data/chest_xray/data/val/normal/0298_normal.jpg 0
+data/chest_xray/data/val/normal/0377_normal.jpg 0
+data/chest_xray/data/val/normal/0269_normal.jpg 0
+data/chest_xray/data/val/normal/0324_normal.jpg 0
+data/chest_xray/data/val/normal/0368_normal.jpg 0
+data/chest_xray/data/val/normal/0295_normal.jpg 0
+data/chest_xray/data/val/normal/0332_normal.jpg 0
+data/chest_xray/data/val/normal/0323_normal.jpg 0
+data/chest_xray/data/val/normal/0271_normal.jpg 0
+data/chest_xray/data/val/normal/0315_normal.jpg 0
+data/chest_xray/data/val/normal/0270_normal.jpg 0
+data/chest_xray/data/val/normal/0331_normal.jpg 0
+data/chest_xray/data/val/normal/0359_normal.jpg 0
+data/chest_xray/data/val/normal/0267_normal.jpg 0
+data/chest_xray/data/val/normal/0363_normal.jpg 0
+data/chest_xray/data/val/normal/0370_normal.jpg 0
+data/chest_xray/data/val/normal/0318_normal.jpg 0
+data/chest_xray/data/val/normal/0281_normal.jpg 0
+data/chest_xray/data/val/normal/0296_normal.jpg 0
+data/chest_xray/data/val/normal/0364_normal.jpg 0
+data/chest_xray/data/val/normal/0263_normal.jpg 0
+data/chest_xray/data/val/normal/0275_normal.jpg 0
+data/chest_xray/data/val/normal/0301_normal.jpg 0
+data/chest_xray/data/val/normal/0293_normal.jpg 0
+data/chest_xray/data/val/normal/0319_normal.jpg 0
+data/chest_xray/data/val/normal/0352_normal.jpg 0
+data/chest_xray/data/val/normal/0376_normal.jpg 0
+data/chest_xray/data/val/normal/0304_normal.jpg 0
+data/chest_xray/data/val/normal/0272_normal.jpg 0
+data/chest_xray/data/val/normal/0344_normal.jpg 0
+data/chest_xray/data/val/normal/0277_normal.jpg 0
+data/chest_xray/data/val/normal/0372_normal.jpg 0
+data/chest_xray/data/val/normal/0361_normal.jpg 0
+data/chest_xray/data/val/normal/0375_normal.jpg 0
+data/chest_xray/data/val/normal/0303_normal.jpg 0
+data/chest_xray/data/val/normal/0335_normal.jpg 0
+data/chest_xray/data/val/normal/0283_normal.jpg 0
+data/chest_xray/data/val/normal/0353_normal.jpg 0
+data/chest_xray/data/val/normal/0276_normal.jpg 0
+data/chest_xray/data/val/normal/0316_normal.jpg 0
+data/chest_xray/data/val/normal/0355_normal.jpg 0
+data/chest_xray/data/val/normal/0288_normal.jpg 0
+data/chest_xray/data/val/normal/0314_normal.jpg 0
+data/chest_xray/data/val/normal/0311_normal.jpg 0
+data/chest_xray/data/val/normal/0262_normal.jpg 0
+data/chest_xray/data/val/normal/0307_normal.jpg 0
+data/chest_xray/data/val/normal/0330_normal.jpg 0
+data/chest_xray/data/val/normal/0343_normal.jpg 0
+data/chest_xray/data/val/normal/0373_normal.jpg 0
+data/chest_xray/data/val/normal/0306_normal.jpg 0
+data/chest_xray/data/val/normal/0287_normal.jpg 0
+data/chest_xray/data/val/normal/0291_normal.jpg 0
+data/chest_xray/data/val/normal/0286_normal.jpg 0
+data/chest_xray/data/val/normal/0369_normal.jpg 0
+data/chest_xray/data/val/normal/0310_normal.jpg 0
+data/chest_xray/data/val/normal/0350_normal.jpg 0
+data/chest_xray/data/val/normal/0339_normal.jpg 0
+data/chest_xray/data/val/normal/0341_normal.jpg 0
+data/chest_xray/data/val/normal/0371_normal.jpg 0
+data/chest_xray/data/val/normal/0382_normal.jpg 0
+data/chest_xray/data/val/normal/0274_normal.jpg 0
+data/chest_xray/data/val/normal/0329_normal.jpg 0
+data/chest_xray/data/val/normal/0285_normal.jpg 0
+data/chest_xray/data/val/normal/0258_normal.jpg 0
+data/chest_xray/data/val/normal/0360_normal.jpg 0
+data/chest_xray/data/val/normal/0308_normal.jpg 0
+data/chest_xray/data/val/normal/0259_normal.jpg 0
+data/chest_xray/data/val/normal/0383_normal.jpg 0
+data/chest_xray/data/val/normal/0260_normal.jpg 0
+data/chest_xray/data/val/normal/0354_normal.jpg 0
+data/chest_xray/data/val/normal/0333_normal.jpg 0
+data/chest_xray/data/val/normal/0264_normal.jpg 0
+data/chest_xray/data/val/normal/0327_normal.jpg 0
+data/chest_xray/data/val/normal/0346_normal.jpg 0
+data/chest_xray/data/val/normal/0322_normal.jpg 0
+data/chest_xray/data/val/normal/0378_normal.jpg 0
+data/chest_xray/data/val/normal/0380_normal.jpg 0
+data/chest_xray/data/val/normal/0357_normal.jpg 0
+data/chest_xray/data/val/normal/0342_normal.jpg 0
+data/chest_xray/data/val/normal/0338_normal.jpg 0
+data/chest_xray/data/val/normal/0325_normal.jpg 0
+data/chest_xray/data/val/normal/0384_normal.jpg 0
+data/chest_xray/data/val/normal/0328_normal.jpg 0
+data/chest_xray/data/val/normal/0289_normal.jpg 0
+data/chest_xray/data/val/normal/0326_normal.jpg 0
+data/chest_xray/data/val/normal/0349_normal.jpg 0
+data/chest_xray/data/val/normal/0300_normal.jpg 0
+data/chest_xray/data/val/normal/0279_normal.jpg 0
+data/chest_xray/data/val/normal/0266_normal.jpg 0
+data/chest_xray/data/val/normal/0379_normal.jpg 0
+data/chest_xray/data/val/normal/0268_normal.jpg 0
+data/chest_xray/data/val/normal/0302_normal.jpg 0
+data/chest_xray/data/val/normal/0313_normal.jpg 0
+data/chest_xray/data/val/normal/0294_normal.jpg 0
+data/chest_xray/data/val/normal/0290_normal.jpg 0
+data/chest_xray/data/val/normal/0351_normal.jpg 0
+data/chest_xray/data/val/normal/0265_normal.jpg 0
+data/chest_xray/data/val/normal/0348_normal.jpg 0
+data/chest_xray/data/val/normal/0381_normal.jpg 0
+data/chest_xray/data/val/normal/0282_normal.jpg 0
+data/chest_xray/data/val/normal/0320_normal.jpg 0
+data/chest_xray/data/val/normal/0273_normal.jpg 0
+data/chest_xray/data/val/normal/0309_normal.jpg 0
+data/chest_xray/data/val/normal/0334_normal.jpg 0
+data/chest_xray/data/val/normal/0280_normal.jpg 0
+data/chest_xray/data/val/normal/0284_normal.jpg 0
+data/chest_xray/data/val/normal/0358_normal.jpg 0
+data/chest_xray/data/val/normal/0261_normal.jpg 0
+data/chest_xray/data/val/normal/0365_normal.jpg 0
+data/chest_xray/data/val/normal/0362_normal.jpg 0
+data/chest_xray/data/val/pneumonia/0183_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0133_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2913_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2921_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2963_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2940_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2939_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2917_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2952_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0145_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0141_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2966_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0170_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0172_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0156_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0152_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2923_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0164_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2914_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0174_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2927_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0147_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0146_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2924_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2936_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0150_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0128_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0153_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0182_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2909_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2922_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0186_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0158_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0169_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2938_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0161_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2945_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0168_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2910_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0130_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0189_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0181_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0129_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2928_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0134_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2915_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2947_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2908_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2929_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0180_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2971_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0143_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0175_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2931_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2916_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2965_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0178_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2970_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0154_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0136_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2961_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2967_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0142_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2918_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2968_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2960_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2934_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2951_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2911_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0155_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0187_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2925_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0131_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0177_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2948_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2962_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0163_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0139_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0144_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0157_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2926_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2930_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2946_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2942_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2949_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2954_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0132_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0160_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2955_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2935_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0151_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0179_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0166_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2912_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2944_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0184_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0149_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0135_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2953_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0191_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2941_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0190_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2959_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2969_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0167_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0171_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2950_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2919_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2964_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0138_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0148_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0165_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2957_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0176_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2932_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0173_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0162_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0185_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2920_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2943_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0137_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2933_virus.jpg 1
+data/chest_xray/data/val/pneumonia/2956_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0140_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2958_virus.jpg 1
+data/chest_xray/data/val/pneumonia/0188_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/0159_bacteria.jpg 1
+data/chest_xray/data/val/pneumonia/2937_virus.jpg 1
